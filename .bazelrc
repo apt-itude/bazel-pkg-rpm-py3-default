@@ -1,0 +1,2 @@
+build --python_top=//:target-based-runtime
+build --incompatible_allow_python_version_transitions
